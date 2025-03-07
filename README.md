@@ -1,4 +1,4 @@
-# Red Hat AI Accelerator
+t# Red Hat AI Accelerator
 
 Welcome to the AI Accelerator project source code. This project is designed to initialize an OpenShift cluster with a recommended set of operators and components that aid with training, deploying, serving and monitoring Machine Learning models.
 
