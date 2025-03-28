@@ -26,8 +26,8 @@ spec:
       port: ''
       region: us-east-1
       s3CredentialsSecret:
-        accessKey: minio
-        secretKey: minio123
+        accessKey: minio_root_user
+        secretKey: minio_root_password
         secretName: minio
       scheme: http
   persistenceAgent:
